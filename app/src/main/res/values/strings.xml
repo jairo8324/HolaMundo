@@ -2,5 +2,7 @@
     <string name="app_name">HolaMundo</string>
     <string name="titulo">holamundo</string>
     <string name="saludar">Saludar</string>
+    <string name="parte_saludo">Hola</string>
+
 
 </resources>
